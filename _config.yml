@@ -17,6 +17,8 @@ markdown: kramdown
 paginate: 3
 paginate_path: "blog/page:num"
 
+baseurl: /dsa_website
+site.url: /dsa_website
 
 # CR
 plugins: 
